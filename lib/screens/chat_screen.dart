@@ -22,7 +22,7 @@ class ChatScreen extends StatelessWidget {
                   child: Row(
                     children: <Widget>[
                       Icon(Icons.exit_to_app),
-                      SizedBox(width: 8),
+                      SizedBox(width: 18),
                       Text('Logout'),
                     ],
                   ),
